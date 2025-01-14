@@ -1,7 +1,5 @@
 - 👋 Hi, I’m ABROR
-- 👀 I’m interested in backend development
-- 🌱 I’m currently learning Python and Django
-- 💞️ I’m looking to collaborate on small projects for internship
+- I'm backend developer
   
 - Contacts:
 - Telephone: +998 93 119-60-01
