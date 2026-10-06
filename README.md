@@ -1,10 +1,4 @@
-- 👋 Hi, I’m ABROR
-- I'm backend developer
-  
-- Contacts:
-- Telephone: +998 93 119-60-01
-- Telegram: @Abror_dd
-- Whatsapp: +998 93 119-60-01
+### Hello ^^
   
 
 <!---
